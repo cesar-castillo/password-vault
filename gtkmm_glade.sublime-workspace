@@ -1,0 +1,906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"opendb_pass",
+				"opendb_password_entry_"
+			],
+			[
+				"window",
+				"window_title"
+			],
+			[
+				"db_ma",
+				"db_manager_"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"Pass",
+				"PasswordListManager"
+			],
+			[
+				"listso",
+				"liststore1"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"file_",
+				"file_chooser_dialog"
+			],
+			[
+				"file",
+				"file_chooser_dialog"
+			],
+			[
+				"file_cho",
+				"file_chooser_dialog"
+			],
+			[
+				"descrip",
+				"description_entry_"
+			],
+			[
+				"stack",
+				"stack1_"
+			],
+			[
+				"invo",
+				"invoker_page_name_"
+			],
+			[
+				"on_",
+				"on_cancel_button_clicked"
+			],
+			[
+				"invoke",
+				"invoker_page_name"
+			],
+			[
+				"clear",
+				"clear_password_list"
+			],
+			[
+				"cler",
+				"clear_password_list"
+			],
+			[
+				"db_",
+				"db_manager_"
+			],
+			[
+				"save_db",
+				"save_db_btn"
+			],
+			[
+				"new_d",
+				"new_db_btn"
+			],
+			[
+				"treeview",
+				"treeview1"
+			],
+			[
+				"App",
+				"AppController"
+			],
+			[
+				"crypto",
+				"cryptopp"
+			],
+			[
+				"const",
+				"constants"
+			],
+			[
+				"data",
+				"database_"
+			],
+			[
+				"iv_",
+				"iv_length_"
+			],
+			[
+				"plain",
+				"plain_entry_data"
+			],
+			[
+				"raw_entry",
+				"raw_entry_data"
+			],
+			[
+				"entry",
+				"raw_entry_data"
+			],
+			[
+				"entry_",
+				"entry_raw_data_vec"
+			],
+			[
+				"cip",
+				"cipher"
+			],
+			[
+				"all_dat",
+				"all_data_vec"
+			],
+			[
+				"raw",
+				"raw_pointer"
+			],
+			[
+				"raw_data",
+				"raw_data_len"
+			],
+			[
+				"raw_",
+				"raw_data_len"
+			],
+			[
+				"db_fi",
+				"db_file_extension_"
+			],
+			[
+				"all_data",
+				"all_data_vec"
+			],
+			[
+				"ci",
+				"cipher_text"
+			],
+			[
+				"cipher",
+				"cipher_text"
+			],
+			[
+				"plain_",
+				"plain_text"
+			],
+			[
+				"ciphe",
+				"cipher_text2"
+			],
+			[
+				"cipher_te",
+				"cipher_text2"
+			],
+			[
+				"plain_te",
+				"plain_text2"
+			],
+			[
+				"p",
+				"plain_text2"
+			],
+			[
+				"pla",
+				"plain_text"
+			],
+			[
+				"plin",
+				"plain_text2"
+			],
+			[
+				"enrypt",
+				"encrypt2"
+			],
+			[
+				"ciph",
+				"cipher_text_len"
+			],
+			[
+				"iv_le",
+				"iv_length_"
+			],
+			[
+				"key_le",
+				"key_length_"
+			],
+			[
+				"key_len",
+				"key_length_"
+			],
+			[
+				"key",
+				"key_length"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"raw_da",
+				"raw_data_enc"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"plaint",
+				"plain_text2"
+			],
+			[
+				"pain_te",
+				"plain_text2"
+			],
+			[
+				"AEs",
+				"AESCipher"
+			],
+			[
+				"AES",
+				"AES_CIPHER_H_"
+			],
+			[
+				"decry",
+				"decrypt_file"
+			],
+			[
+				"encry",
+				"encrypt_file"
+			],
+			[
+				"db_fil",
+				"db_file_name"
+			],
+			[
+				"db_file",
+				"db_file_name_"
+			],
+			[
+				"hash",
+				"hash_sha256"
+			],
+			[
+				"last_blo",
+				"last_block_proof"
+			],
+			[
+				"last_block",
+				"last_block_hash"
+			],
+			[
+				"time",
+				"ctime\tstandard header"
+			],
+			[
+				"Fi",
+				"HashFilter"
+			],
+			[
+				"audio",
+				"audioBuffer"
+			],
+			[
+				"windo",
+				"window"
+			],
+			[
+				"ini",
+				"initialPosY"
+			],
+			[
+				"myCi",
+				"myCircle2"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"cir",
+				"circleWidth"
+			],
+			[
+				"vel",
+				"velocityY"
+			],
+			[
+				"velo",
+				"velocityX"
+			],
+			[
+				"vol",
+				"velocityX"
+			],
+			[
+				"wind",
+				"windowWidth"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"v",
+				"velocityX"
+			],
+			[
+				"veloci",
+				"velocityY"
+			],
+			[
+				"circl",
+				"circleWidth"
+			],
+			[
+				"vertex",
+				"VERTEXT_BUFFER_COUNT"
+			],
+			[
+				"vertexArra",
+				"vertexArrayObjects"
+			],
+			[
+				"sha",
+				"shaders"
+			],
+			[
+				"Sha",
+				"ShaderHelper"
+			],
+			[
+				"shaderSOu",
+				"shaderSourceStringLenghts"
+			],
+			[
+				"shader",
+				"shaderText"
+			],
+			[
+				"shaders",
+				"shadersInfo"
+			],
+			[
+				"passw",
+				"password_file"
+			],
+			[
+				"WIN",
+				"WIN32"
+			],
+			[
+				"CMAKE_CURR",
+				"CMAKE_CURRENT_SOURCE_DIR"
+			],
+			[
+				"FindOp",
+				"FindOpenSSL"
+			],
+			[
+				"PROJE",
+				"PROJECT_NAME"
+			],
+			[
+				"target_compi",
+				"target_compile_options"
+			],
+			[
+				"FinOpen",
+				"FindOpenSSL"
+			],
+			[
+				"target_in",
+				"target_include_directories"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app_controller.hpp",
+			"settings":
+			{
+				"buffer_size": 1130,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app_controller.cpp",
+			"settings":
+			{
+				"buffer_size": 4696,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "opendb_page.cpp",
+			"settings":
+			{
+				"buffer_size": 2510,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "password_page.cpp",
+			"settings":
+			{
+				"buffer_size": 3441,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 376.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 505.0
+	},
+	"console":
+	{
+		"height": 352.0,
+		"history":
+		[
+			"ll",
+			"ls",
+			"sdfsdf",
+			"sdfsdfs"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/emmanuel/Development/C++/GtkmmGlade",
+		"/home/emmanuel/Development/C++/pvdbmanager",
+		"/home/emmanuel/Development/C++/pvdbmanager/include",
+		"/home/emmanuel/Development/C++/pvdbmanager/src",
+		"/home/emmanuel/Development/C++/pvdbmanager/src/crypto"
+	],
+	"file_history":
+	[
+		"/home/emmanuel/Development/C++/GtkmmGlade/gtkmm_glade_ui.glade",
+		"/home/emmanuel/Development/C++/GtkmmGlade/password_list_manager.cpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/password_list_manager.hpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/password_page.hpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/opendb_page.hpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/gtkmm_glade.sublime-project",
+		"/home/emmanuel/Development/C++/pvdbmanager/pvdbmanager.sublime-project",
+		"/home/emmanuel/Development/C++/GtkmmGlade/god.hpp",
+		"/home/emmanuel/Development/C++/pvdbmanager/src/crypto/aes_cipher.hpp",
+		"/home/emmanuel/Development/C++/pvdbmanager/src/crypto/aes_cipher.cpp",
+		"/home/emmanuel/Development/C++/pvdbmanager/src/crypto/util.hpp",
+		"/home/emmanuel/Development/C++/pvdbmanager/src/crypto/cipher.hpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/main.cpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/password_page.cpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/god.cpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/meson.build",
+		"/home/emmanuel/Development/C++/pvdbmanager/src/db_manager.cpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/app_controller.hpp",
+		"/home/emmanuel/Development/C++/pvdbmanager/include/pvdbmanager/db_manager.hpp",
+		"/home/emmanuel/Development/C++/pvdbmanager/include/pvdbmanager/database.hpp",
+		"/home/emmanuel/Development/C++/GtkmmGlade/gtkmm_glade_ui.glade~",
+		"/home/emmanuel/Development/C++/pvdbmanager/meson.build",
+		"/home/emmanuel/Desktop/hello_gtkmm/main_window.hpp",
+		"/home/emmanuel/Desktop/hello_gtkmm/main.cpp",
+		"/home/emmanuel/Desktop/hello_gtkmm/meson.build",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/crypto/aes_cipher.cpp",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/crypto/cipher.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/database.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/crypto/aes_cipher.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/db_manager.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/db_manager.cpp",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/crypto/util.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/meson.build",
+		"/home/emmanuel/Development/C++/PasswordVault/builddir/compile_commands.json",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/meson.build",
+		"/home/emmanuel/Development/C++/PasswordVault/lib/builddir/compile_commands.json",
+		"/home/emmanuel/Development/C++/PasswordVault/main.cpp",
+		"/home/emmanuel/Development/C++/PasswordVault/password_vault.cpp",
+		"/home/emmanuel/Development/C++/PasswordVault/password_vault.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/db_manager.cpp",
+		"/home/emmanuel/Development/C++/PasswordVault/db_manager.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/database.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/crypto/cipher.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/crypto/aes_cipher.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/crypto/aes_cipher.cpp",
+		"/home/emmanuel/Development/C++/PasswordVault/crypto/util.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/util.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/builddir/passwords.dat",
+		"/home/emmanuel/Development/C++/PasswordVault/builddir/passwords_tmp.dat",
+		"/home/emmanuel/Development/C++/PasswordVault/password_vault.sublime-project",
+		"/home/emmanuel/Development/C++/PasswordVault/build.sh",
+		"/home/emmanuel/Development/C++/PasswordVault/password_vault",
+		"/home/emmanuel/Development/C++/PasswordVault/aes_cipher.cpp",
+		"/home/emmanuel/Development/C++/PasswordVault/cipher.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/aes_cipher.hpp",
+		"/home/emmanuel/Development/C++/PasswordVault/Algorithms.hpp",
+		"/home/emmanuel/Development/MyStellarWalletGradle/src/main/java/MyStellarWallet.java",
+		"/home/emmanuel/Development/MyStellarWalletGradle/src/main/java/com/orbital/mystellarwallet/crypto/CryptoManager.java",
+		"/home/emmanuel/Development/MyStellarWalletGradle/src/main/java/com/orbital/mystellarwallet/crypto/CryptoParameters.java",
+		"/home/emmanuel/Development/MyStellarWalletGradle/src/main/java/com/orbital/mystellarwallet/core/AccountManager.java",
+		"/home/emmanuel/Development/MyStellarWalletGradle/src/main/java/com/orbital/mystellarwallet/core/Account.java",
+		"/home/emmanuel/Playlist 1.xspf",
+		"/home/emmanuel/Development/C++/PasswordVault/interface.hpp",
+		"/home/emmanuel/Development/C++/Tests/binary_files.cpp",
+		"/home/emmanuel/Development/mupen64plus/mupen64plus-ui-console/src/main.h",
+		"/home/emmanuel/Development/mupen64plus/mupen64plus-ui-console/src/main.c",
+		"/home/emmanuel/Development/mupen64plus/mupen64plus-ui-console/src/osal_files.h",
+		"/home/emmanuel/Development/mupen64plus/mupen64plus-ui-console/src/osal_dynamiclib_unix.c",
+		"/home/emmanuel/Development/citra/src/citra/citra.cpp",
+		"/home/emmanuel/Development/citra/src/core/core.cpp",
+		"/home/emmanuel/Development/citra/src/core/core.h",
+		"/home/emmanuel/Development/citra/src/core/arm/arm_interface.h",
+		"/home/emmanuel/Development/citra/src/core/hle/kernel/process.cpp",
+		"/home/emmanuel/Development/citra/src/citra/config.cpp",
+		"/home/emmanuel/Development/citra/src/citra/CMakeLists.txt",
+		"/home/emmanuel/Development/citra/src/citra/citra.rc",
+		"/home/emmanuel/Development/citra/src/citra/emu_window/emu_window_sdl2.h",
+		"/home/emmanuel/Development/citra/src/citra/emu_window/emu_window_sdl2.cpp",
+		"/home/emmanuel/Development/citra/src/input_common/keyboard.h",
+		"/home/emmanuel/Development/citra/src/input_common/keyboard.cpp",
+		"/home/emmanuel/Desktop/Proyecto",
+		"/home/emmanuel/Development/Projects/Freelance/galssapi/galss_api/DAL/Seeker/SeekerDAL.cs",
+		"/home/emmanuel/Development/C++/Blockchain/main.cpp",
+		"/home/emmanuel/Development/C++/Blockchain/crypto.hpp",
+		"/home/emmanuel/Development/C++/Blockchain/blockchain.hpp",
+		"/home/emmanuel/Development/Rust/hello_rust/src/main.rs",
+		"/home/emmanuel/Development/Rust/hello_rust/src/lib.rs",
+		"/home/emmanuel/Development/Rust/hello_rust/Cargo.toml",
+		"/home/emmanuel/Development/Rust/hello_rust/Cargo.lock",
+		"/home/emmanuel/Development/C++/Blockchain/build.sh",
+		"/home/emmanuel/Development/C++/Blockchain/.clang_complete",
+		"/home/emmanuel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/emmanuel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/emmanuel/Development/OpenGL/Program1/build.sh",
+		"/home/emmanuel/Development/OpenGL/Program1/triangles.cpp",
+		"/home/emmanuel/Development/OpenGL/Program1/triangles.txt",
+		"/home/emmanuel/Development/Projects/IonicTutorial/src/app/app.module.ts",
+		"/home/emmanuel/Development/Projects/IonicTutorial/src/app/app.html",
+		"/home/emmanuel/Development/Projects/IonicTutorial/src/app/app.component.ts",
+		"/home/emmanuel/Development/Projects/IonicTutorial/src/app/main.ts",
+		"/home/emmanuel/Development/Projects/IonicTutorial/src/app/app.scss",
+		"/home/emmanuel/Development/Projects/IonicTutorial/node_modules/ionic-angular/bundles/ionic.umd.js",
+		"/home/emmanuel/Development/Projects/IonicTutorial/src/service-worker.js",
+		"/home/emmanuel/Development/VideoGames/SFMLLearning/learning1.cpp",
+		"/home/emmanuel/Development/VideoGames/SFMLLearning/MyCircle.h",
+		"/home/emmanuel/Development/VideoGames/SFMLLearning/build.sh",
+		"/home/emmanuel/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/emmanuel/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/emmanuel/Desktop/change_display_settings.sh",
+		"/home/emmanuel/Desktop/sfml_sample.cpp",
+		"/home/emmanuel/Development/OpenGL/Program1/triangle.vert",
+		"/home/emmanuel/Development/OpenGL/Program1/triangle.frag",
+		"/home/emmanuel/Development/OpenGL/Program1/ShaderHelper.cpp",
+		"/home/emmanuel/Development/OpenGL/Program1/MainWindow.cpp",
+		"/home/emmanuel/Development/OpenGL/Program1/MainWindow.h",
+		"/home/emmanuel/Development/OpenGL/Program1/ShaderHelper.h",
+		"/home/emmanuel/Development/OpenGL/Program1/test.cpp",
+		"/home/emmanuel/Desktop/triangles.cpp",
+		"/home/emmanuel/Desktop/ShaderHelper.cpp",
+		"/home/emmanuel/Desktop/ShaderHelper.h",
+		"/home/emmanuel/Desktop/test.cpp",
+		"/home/emmanuel/Desktop/triangle.frag",
+		"/home/emmanuel/Desktop/triangle.vert",
+		"/home/emmanuel/Desktop/brute_force.py",
+		"/home/emmanuel/Development/MyStellarWalletGradle/build.gradle",
+		"/home/emmanuel/Development/MyStellarWalletGradle/settings.gradle",
+		"/home/emmanuel/Development/Maya2018/Maya2018_DEVKIT_Linux/devkitBase/devkit/plug-ins/shadowMatteShader/AEshadowMatteTemplate.mel",
+		"/home/emmanuel/Development/Maya2018/Maya2018_DEVKIT_Linux/devkitBase/devkit/plug-ins/shadowMatteShader/shadowMatteShader.cpp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"has_focus",
+			"style",
+			"save_db",
+			"inter",
+			"intern",
+			"clear_pass",
+			"liststore1",
+			"treeview1",
+			"add_entry",
+			"db_manager_",
+			"Database close",
+			"database close",
+			"manager",
+			"gen_random",
+			"aescipher",
+			"derive_key",
+			"new",
+			"back_in",
+			"seekg",
+			"crypto",
+			"sizeof(*",
+			"while"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app_controller.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								973,
+								973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app_controller.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2835,
+								2835
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "opendb_page.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "password_page.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								845,
+								845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 208.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gtkmm_glade.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
