@@ -1,20 +1,34 @@
-Build started at 2018-11-11T19:05:07.121662
+Build started at 2018-11-13T16:12:34.111180
 Main binary: /usr/bin/python3
 Python system: Linux
 The Meson build system
 Version: 0.47.2
-Source dir: /home/emmanuel/Development/C++/GtkmmGlade
-Build dir: /home/emmanuel/Development/C++/GtkmmGlade/builddir
+Source dir: /home/emmanuel/Development/C++/password-vault
+Build dir: /home/emmanuel/Development/C++/password-vault/builddir
 Build type: native build
-Project name: gtkmm_glade
+Project name: password_vault
 Project version: undefined
 Native C++ compiler: c++ (gcc 7.3.1 "c++ (GCC) 7.3.1 20180712 (Red Hat 7.3.1-6)")
 Build machine cpu family: x86_64
 Build machine cpu: x86_64
 Dependency gtkmm-3.0 found: YES (cached)
+
+
+Executing subproject pvdbmanager 
+
+Project name: pvdbmanager
+Project version: undefined
+Native C++ compiler: c++ (gcc 7.3.1 "c++ (GCC) 7.3.1 20180712 (Red Hat 7.3.1-6)")
+Dependency cryptopp found: YES (cached)
+Dependency threads found: YES (cached)
+Build targets in project: 1
+
+Subproject pvdbmanager finished.
+Build targets in project: 2
+Found ninja-1.8.2 at /usr/bin/ninja
 Running compile:
-Working directory:  /tmp/tmpog29v3bd
-Command line:  c++ /tmp/tmpog29v3bd/testfile.cpp -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpog29v3bd/output.obj -O0 -fpermissive --print-search-dirs 
+Working directory:  /tmp/tmp3d8llzlx
+Command line:  c++ /tmp/tmp3d8llzlx/testfile.cpp -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp3d8llzlx/output.obj -O0 -fpermissive --print-search-dirs 
 
 Code:
  
@@ -25,8 +39,3 @@ libraries: =/usr/lib/gcc/x86_64-redhat-linux/7/:/usr/lib/gcc/x86_64-redhat-linux
 
 Compiler stderr:
  
-Library pvdbmanager found: YES
-Dependency cryptopp found: YES (cached)
-Dependency threads found: YES (cached)
-Build targets in project: 1
-Found ninja-1.8.2 at /usr/bin/ninja

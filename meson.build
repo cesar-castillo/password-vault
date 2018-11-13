@@ -16,18 +16,13 @@ sources = [
 
 # External dependency
 gtkmm_dep = dependency('gtkmm-3.0')
-# Other dependency
-cpp_comp = meson.get_compiler('cpp')
-pvdbmanager_dep = cpp_comp.find_library('pvdbmanager', dirs : ['/home/emmanuel/Development/C++/pvdbmanager/builddir'])
-pvdbmanager_inc = include_directories('/home/emmanuel/Development/C++/pvdbmanager/include')
+
+# Subproject dependency
+pvdbmanager_proj = subproject('pvdbmanager')
+pvdbmanager_dep = pvdbmanager_proj.get_variable('pvdbmanager_dep')
 
 # filesystem starndard library
 add_project_link_arguments(['-lstdc++fs'], language: 'cpp')
 
-cryptopp = dependency('cryptopp')
-pthread = dependency('threads')
-
 # Target executable
-executable('password_vault', sources,
-	dependencies: [gtkmm_dep, pvdbmanager_dep, cryptopp, pthread],
-	include_directories: [pvdbmanager_inc])
+executable('password_vault', sources, dependencies: [gtkmm_dep, pvdbmanager_dep])
