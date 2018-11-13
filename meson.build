@@ -1,4 +1,4 @@
-project('gtkmm_glade', 'cpp', default_options: ['cpp_std=c++17'])
+project('password_vault', 'cpp', default_options: ['cpp_std=c++17'])
 
 sources = [
 	'main.cpp',
@@ -28,6 +28,6 @@ cryptopp = dependency('cryptopp')
 pthread = dependency('threads')
 
 # Target executable
-executable('gtkmm_glade', sources,
+executable('password_vault', sources,
 	dependencies: [gtkmm_dep, pvdbmanager_dep, cryptopp, pthread],
 	include_directories: [pvdbmanager_inc])
