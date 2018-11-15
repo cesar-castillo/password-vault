@@ -1,17 +1,17 @@
 project('password_vault', 'cpp', default_options: ['cpp_std=c++17'])
 
 sources = [
-	'main.cpp',
-	'app_controller.hpp',
-	'app_controller.cpp',
-	'password_page.hpp',
-	'password_page.cpp',
-	'opendb_page.hpp',
-	'opendb_page.cpp',
-	'password_list_manager.hpp',
-	'password_list_manager.cpp',
-	'god.hpp',
-	'god.cpp'
+	'src/main.cpp',
+	'src/app_controller.hpp',
+	'src/app_controller.cpp',
+	'src/password_page.hpp',
+	'src/password_page.cpp',
+	'src/opendb_page.hpp',
+	'src/opendb_page.cpp',
+	'src/password_list_manager.hpp',
+	'src/password_list_manager.cpp',
+	'src/god.hpp',
+	'src/god.cpp'
 ]
 
 # External dependency

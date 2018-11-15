@@ -14,7 +14,7 @@ public:
 		{
 			try
 			{
-				builder_ = Gtk::Builder::create_from_file("../gtkmm_glade_ui.glade");
+				builder_ = Gtk::Builder::create_from_file("../password_vault_ui.glade");
 			}
 			catch(const Glib::FileError& ex)
 			{
